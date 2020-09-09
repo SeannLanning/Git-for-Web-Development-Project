@@ -1,0 +1,44 @@
+https://codepen.io/SLanning/pen/GRZydjz?editors=1100
+
+
+
+1. Using html to describe the meaning of the layout of code, but using tags
+2. Html is used to create wepages for the internet
+3. An attribute is a description of an element. Always put in the opening tag
+4. H1 is used for the heading of a webpage and it should only be used once
+5. Img, a (anchor)
+6. information about the document and code below
+7. Specifies a unique ID for an element
+8. All elements
+9. only once
+10. similar to Id but can be used multiple times on one page
+11. All
+12. As many times as you want to
+13. <a href="https://www.examplelink.com/">Examplelink</a>"
+14. specifies an alternate text for the image if it can not be displayed 
+15. # followed by the id name
+16. A section is for representing a section of the document while div is basically a generic container element of the document.
+   The div element has no real meaning
+17. Used for touching up webpages after html. Adds things like color, fonts, the layout, etc.
+18. h2 {}
+19. The difference is that the id selector is unique and only used to identify one element. Class example:.center  Id example: #firstname
+20. a period followed by class name
+21. .human p{}
+22. selects all elements that are withing that specific element. An example of this would be when listing items. Such as using ul as the parent and li are the children
+23. div #sidebar {}
+24. a keyword that specifies a specific state of the selected element. EX:hover
+25. <br> in html or line-height: in css
+26. letter-spacing:
+27. text-transform: , lowercase: , capitalize:
+28. div.dotted {outline-style: dotted;
+border: 1px black;
+ }
+29. * {}
+30. /*""*/
+31. pwd
+32. ls
+33. git -rm. You have to be careful with this because it gives you no warning and there is no way to reverse it once its removed
+34. helps keep track of changes, esp when multiple people are working off the same file
+35. usually whenever you finish a step
+36. git push origin "branch name"
+37. fork the original to make your own copy, clone to bring that copy to your local computer, create new branch to make changes, commit to save those changes back to your local copy, push the changes up to the forked copy that you made. then create a pull request for a TL to check it
